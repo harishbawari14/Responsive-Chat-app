@@ -1,19 +1,43 @@
-# ✨ Full Stack Realtime Chat App ✨
+# 💬 Responsive Chat App
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+A full-stack, real-time chat application built with **React**, **Node.js**, **Express**, and **Socket.IO**. It supports real-time messaging, authentication, and responsive design for both desktop and mobile devices.
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+---
 
-Highlights:
+## 🚀 Features
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+- ✅ Real-time messaging with Socket.IO
+- ✅ Authentication (register/login)
+- ✅ User-friendly & responsive UI
+- ✅ Group chat support
+- ✅ RESTful API for user management
+- ✅ Environment variable support via `.env`
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**
+- React
+- Tailwind CSS / CSS Modules (your choice)
+- Socket.IO Client
+
+**Backend:**
+- Node.js
+- Express
+- MongoDB (via Mongoose)
+- Socket.IO
+- JWT for authentication
+
+---
+
+## 📦 Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/harishbawari14/Responsive-Chat-app.git
+cd Responsive-Chat-app
 
 ### Setup .env file
 
